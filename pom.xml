@@ -28,7 +28,7 @@
             <artifactId>postgresql</artifactId>
             <scope>system</scope>
 			<systemPath>${pathToFile}/postgresql-jdbc.jar</systemPath>
-            <version>9.3-1100-jdbc41</version>
+            <version>42.3.7</version>
         </dependency>
 		<!-- Hibernate 5.2.6 Final -->
 		<dependency>
